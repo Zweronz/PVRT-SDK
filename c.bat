@@ -1,0 +1,1 @@
+g++ src/*.cpp -shared -o libpvrt.dll -I include/
